@@ -1,1 +1,1 @@
-# landing-page
+Landing Page Project using elementary HTML and CSS
